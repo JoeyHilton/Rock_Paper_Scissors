@@ -1,0 +1,50 @@
+body {
+  background-color: #CCA352;
+}
+
+h1, h3 {
+  color:white;
+  font-family: 'Quantico', sans-serif;
+}
+
+.top {
+  background-image: url("rps.jpg");
+  margin-left: auto;
+  margin-right: auto;
+  /*margin-bottom: 50px;*/
+  /*background-position:center;*/
+  width:490px;
+  height:360px;
+  /*border-radius: 50px;*/
+  border-style: solid;
+  border-width: 3px;
+  border-color: white;
+}
+
+.buttons {
+  padding-top:200px;
+  text-align: center;
+}
+
+input { text-align: center; 
+} 
+
+.score {
+  background-color: #3f3f37;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  /*border-radius: 50px;*/
+  /*margin-top: 10px;*/
+  text-align: center;
+  border-style: solid;
+  border-width: 3px;
+  border-color: white;
+  width:465px;
+}
+
+span {
+  font-family: 'Quantico', sans-serif;
+  font-size: 20px;
+  color: white;
+}
